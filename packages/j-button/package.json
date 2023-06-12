@@ -1,5 +1,5 @@
 {
-  "name": "j-testing-button",
+  "name": "w-j-testing-button",
   "version": "1.0.4",
   "description": "button 按钮组件",
   "keywords": [
@@ -31,5 +31,5 @@
   "dependencies": {
     "semantic-ui-css": "^2.4.1"
   },
-  "gitHead": "afec7bc3ede51a50e73ea17c5619a817877e6ab3"
+  "gitHead": "bfac7d7f65a0a8783bc4d8a009a2d6056c17b5e3"
 }
