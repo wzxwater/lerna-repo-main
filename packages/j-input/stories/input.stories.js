@@ -1,4 +1,4 @@
-import JInput from '../index'
+import JInput from '../'
 
 export default {
   title: 'JInput',

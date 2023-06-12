@@ -1,4 +1,4 @@
-import JForm from '../index'
+import JForm from '../'
 import JFormItem from '../../j-formitem'
 import JInput from '../../j-input'
 import JButton from '../../j-button'
