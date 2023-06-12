@@ -1,0 +1,35 @@
+{
+  "name": "j-testing-headline",
+  "version": "1.0.0",
+  "description": "headline 组件",
+  "keywords": [
+    "headline"
+  ],
+  "author": "whn <746026935@qq.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
+  "directories": {
+    "lib": "src",
+    "test": "__tests__"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7-hn/lerna-repo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "del": "rimraf dist"
+  },
+  "bugs": {
+    "url": "https://github.com/7-hn/lerna-rep/issues"
+  },
+  "dependencies": {
+    "semantic-ui-css": "2.4.1"
+  },
+  "gitHead": "afec7bc3ede51a50e73ea17c5619a817877e6ab3"
+}
