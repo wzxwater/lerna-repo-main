@@ -15,7 +15,8 @@
     "test": "__tests__"
   },
   "files": [
-    "src"
+    "dist/cjs",
+    "dist/es"
   ],
   "repository": {
     "type": "git",
