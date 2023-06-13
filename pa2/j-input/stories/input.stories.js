@@ -1,4 +1,4 @@
-import JInput from '../'
+import JInput from '../dist/es'
 
 export default {
   title: 'JInput',

@@ -1,4 +1,4 @@
-import JForm from '../'
+import JForm from '../dist/es'
 import JFormItem from '../../j-formitem'
 import JInput from '../../j-input'
 import JButton from '../../j-button'
